@@ -1,0 +1,10 @@
+---
+module:
+  name: "ui.map"
+uis:
+  - name: ui-map
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
